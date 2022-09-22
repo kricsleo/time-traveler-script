@@ -2,7 +2,7 @@
 #!/usr/bin/env sh
 
 _() {
-  echo "What time do you want to go back to(YYYY-MM-DD): "
+  echo "What day do you want to travel back(YYYY-MM-DD): "
   read -r DATE
   echo "GitHub Username: "
   read -r USERNAME

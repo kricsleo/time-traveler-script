@@ -4,7 +4,7 @@
 
 From [antfu/1990-script](https://github.com/antfu/1990-script), but allows you to travel to the day you wish.
 
-## Usage
+## Travel Back
 
 Run the following script
 
